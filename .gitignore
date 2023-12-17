@@ -1,0 +1,10 @@
+test*
+*.db
+draft*
+__pycache__/
+data/sf_3/
+data/sf_5/
+data/sf_7/
+data/sf_9/
+results/
+tpcdi.db.tmp/
