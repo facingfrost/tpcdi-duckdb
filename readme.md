@@ -10,19 +10,19 @@ In this project, we finished the TPC-DI benchmark on Duckdb.
 
 
 
-# Prepare the data
+## Prepare the data
 Using official tool provided by TPCDI, generate data.
 ```bash
 java -jar DIGen.jar -sf 3 -o /your/output/folder
 ```
 
-# Run the benchmark
+## Run the benchmark
 ```bash
 python main.py
 ```
 You'll need to config the file path and scale factor.
 
-# Check the results and charts
+## Check the results and charts
 Open this [file folder](https://github.com/facingfrost/tpcdi-duckdb/tree/main/visualization)
 
 
