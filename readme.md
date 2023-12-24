@@ -1,4 +1,4 @@
-# tpcdi-duckdb
+# TPC-DI-Duckdb
 We finished the [TPC-DI](https://www.tpc.org/tpcdi/default5.asp) benchmark on [Duckdb](https://github.com/duckdb/duckdb).It was the course project of [INFO-H-419:Data Warehouse](https://cs.ulb.ac.be/public/teaching/infoh419) in ULB.
 
 ## Contributors
