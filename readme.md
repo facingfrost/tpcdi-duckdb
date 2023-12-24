@@ -9,3 +9,6 @@ java -jar DIGen.jar -sf 3 -o /your/output/folder
 python main.py
 ```
 You'll need to config the file path and scale factor.
+
+# Show the results and charts
+Open this [file]()
