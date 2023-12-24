@@ -10,5 +10,5 @@ python main.py
 ```
 You'll need to config the file path and scale factor.
 
-# Show the results and charts
-Open this [file]()
+# Check the results and charts
+Open this [file folder](https://github.com/facingfrost/tpcdi-duckdb/tree/main/visualization)
