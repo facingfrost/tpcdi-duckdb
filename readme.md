@@ -1,4 +1,4 @@
-# ChessDB
+# tpcdi-duckdb
 In this project, we finished the TPC-DI benchmark on Duckdb.
 
 ## Contributors
